@@ -1,0 +1,33 @@
+.stat-div {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.stat-title {
+    font-size: 14px;
+    color: #666;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.stat-value {
+    font-size: 18px;
+    color: #333;
+    margin: 5px 0 0;
+    font-weight: 600;
+}
+
+.main-stats .stat-div {
+    text-align: center;
+    background-color: #e8e8e8;
+}
+
+.main-stats .stat-title {
+    font-size: 16px;
+}
+
+.main-stats .stat-value {
+    font-size: 20px;
+}
